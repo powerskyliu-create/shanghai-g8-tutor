@@ -1,0 +1,321 @@
+{
+  "project": "上海八上数学私人桥接 v0.1",
+  "as_of": "2026-11-11",
+  "edition": "沪教版（五四学制）2024修订体系",
+  "grade": 8,
+  "term": "上",
+  "status": "chapter_titles_cross_checked; taxonomy IDs and prerequisites NOT verified",
+  "source_urls": [
+    "https://sc.dzskb.com/hjbczsx54bs.html",
+    "https://guchenlong.github.io/shu-xue/2-chu-zhong-shu-xue/hu-jiao-ban-2024/index.html"
+  ],
+  "chapters": [
+    {
+      "id": "sh54-g8s-ch19",
+      "chapter_number": "19",
+      "name": "实数",
+      "sections": [
+        {
+          "section": "19.1",
+          "title": "平方根与立方根",
+          "candidate_learning_topics": [
+            {
+              "name": "算术平方根",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            },
+            {
+              "name": "平方根",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            },
+            {
+              "name": "立方根",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            }
+          ],
+          "suggested_prerequisites": [
+            "有理数与非负数",
+            "幂运算基础"
+          ],
+          "prereq_status": "教学建议，尚未经教材或上游先修边校验",
+          "school_progress": "待孩子填写"
+        },
+        {
+          "section": "19.2",
+          "title": "实数",
+          "candidate_learning_topics": [
+            {
+              "name": "无理数",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            },
+            {
+              "name": "数轴与实数",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            },
+            {
+              "name": "实数比较及运算",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            }
+          ],
+          "suggested_prerequisites": [
+            "有理数运算",
+            "平方根与立方根"
+          ],
+          "prereq_status": "教学建议，尚未经教材或上游先修边校验",
+          "school_progress": "待孩子填写"
+        }
+      ]
+    },
+    {
+      "id": "sh54-g8s-ch20",
+      "chapter_number": "20",
+      "name": "二次根式",
+      "sections": [
+        {
+          "section": "20.1",
+          "title": "二次根式及其性质",
+          "candidate_learning_topics": [
+            {
+              "name": "二次根式定义",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            },
+            {
+              "name": "有意义的条件",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            },
+            {
+              "name": "二次根式性质",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            }
+          ],
+          "suggested_prerequisites": [
+            "非负数",
+            "平方根",
+            "代数式"
+          ],
+          "prereq_status": "教学建议，尚未经教材或上游先修边校验",
+          "school_progress": "待孩子填写"
+        },
+        {
+          "section": "20.2",
+          "title": "二次根式的运算",
+          "candidate_learning_topics": [
+            {
+              "name": "化简",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            },
+            {
+              "name": "乘除运算",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            },
+            {
+              "name": "同类二次根式加减",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            }
+          ],
+          "suggested_prerequisites": [
+            "因式分解基础",
+            "二次根式性质"
+          ],
+          "prereq_status": "教学建议，尚未经教材或上游先修边校验",
+          "school_progress": "待孩子填写"
+        }
+      ]
+    },
+    {
+      "id": "sh54-g8s-ch21",
+      "chapter_number": "21",
+      "name": "一元二次方程",
+      "sections": [
+        {
+          "section": "21.1",
+          "title": "一元二次方程的概念",
+          "candidate_learning_topics": [
+            {
+              "name": "一元二次方程标准形式",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            },
+            {
+              "name": "解与根",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            }
+          ],
+          "suggested_prerequisites": [
+            "一元一次方程",
+            "整式运算"
+          ],
+          "prereq_status": "教学建议，尚未经教材或上游先修边校验",
+          "school_progress": "待孩子填写"
+        },
+        {
+          "section": "21.2",
+          "title": "一元二次方程的解法",
+          "candidate_learning_topics": [
+            {
+              "name": "因式分解法",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            },
+            {
+              "name": "直接开平方法",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            },
+            {
+              "name": "配方法",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            },
+            {
+              "name": "公式法",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            }
+          ],
+          "suggested_prerequisites": [
+            "因式分解",
+            "平方根",
+            "整式乘法公式"
+          ],
+          "prereq_status": "教学建议，尚未经教材或上游先修边校验",
+          "school_progress": "待孩子填写"
+        },
+        {
+          "section": "21.3",
+          "title": "一元二次方程的判别式",
+          "candidate_learning_topics": [
+            {
+              "name": "判别式与根的情况",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            }
+          ],
+          "suggested_prerequisites": [
+            "一元二次方程公式法"
+          ],
+          "prereq_status": "教学建议，尚未经教材或上游先修边校验",
+          "school_progress": "待孩子填写"
+        },
+        {
+          "section": "21.4",
+          "title": "一元二次方程的根与系数的关系",
+          "candidate_learning_topics": [
+            {
+              "name": "根与系数关系及应用",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            }
+          ],
+          "suggested_prerequisites": [
+            "一元二次方程标准形式"
+          ],
+          "prereq_status": "教学建议，尚未经教材或上游先修边校验",
+          "school_progress": "待孩子填写"
+        },
+        {
+          "section": "21.5",
+          "title": "一元二次方程的应用",
+          "candidate_learning_topics": [
+            {
+              "name": "建立方程模型",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            },
+            {
+              "name": "应用题检验",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            }
+          ],
+          "suggested_prerequisites": [
+            "一元二次方程解法",
+            "实际问题抽象"
+          ],
+          "prereq_status": "教学建议，尚未经教材或上游先修边校验",
+          "school_progress": "待孩子填写"
+        }
+      ]
+    },
+    {
+      "id": "sh54-g8s-ch22",
+      "chapter_number": "22",
+      "name": "直角三角形",
+      "sections": [
+        {
+          "section": "22.1",
+          "title": "直角三角形",
+          "candidate_learning_topics": [
+            {
+              "name": "直角三角形性质",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            },
+            {
+              "name": "直角三角形全等判定",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            }
+          ],
+          "suggested_prerequisites": [
+            "三角形全等",
+            "三角形内角和"
+          ],
+          "prereq_status": "教学建议，尚未经教材或上游先修边校验",
+          "school_progress": "待孩子填写"
+        },
+        {
+          "section": "22.2",
+          "title": "角平分线",
+          "candidate_learning_topics": [
+            {
+              "name": "角平分线性质及判定",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            }
+          ],
+          "suggested_prerequisites": [
+            "角的定义",
+            "垂线与距离"
+          ],
+          "prereq_status": "教学建议，尚未经教材或上游先修边校验",
+          "school_progress": "待孩子填写"
+        },
+        {
+          "section": "22.3",
+          "title": "勾股定理",
+          "candidate_learning_topics": [
+            {
+              "name": "勾股定理",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            },
+            {
+              "name": "勾股定理逆定理及应用",
+              "upstream_topic_id": null,
+              "status": "待与上游及纸质教材逐条核对"
+            }
+          ],
+          "suggested_prerequisites": [
+            "平方根",
+            "直角三角形基础"
+          ],
+          "prereq_status": "教学建议，尚未经教材或上游先修边校验",
+          "school_progress": "待孩子填写"
+        }
+      ]
+    }
+  ]
+}
